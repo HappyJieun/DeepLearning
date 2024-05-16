@@ -1,3 +1,10 @@
+# CatDog
+
+> 고양이, 개 이미지 분류 모델 개발
+> 
+> 언어: Python, TensorFlow, PyTorch
+
+
 # ECG
 
 > 심전도 데이터를 이용한 환자 예측 모델 개발
