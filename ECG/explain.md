@@ -1,8 +1,6 @@
 # 심전도 데이터 기반 심장 질환 진단 모델링
 
-
 > Period: 2021.12 ~ 2022.01
-
 
 ##### 23.02.14 last edit
 ---
@@ -16,7 +14,7 @@
 
 **Background**
 
-사망률이 높은 질환이 심장 질환은 조기 질환이 중요하다. 디지털 의료기기의 심전도 데이터를 활용하여 보다 정확하고 빠른 심장 질환을 진단하는 모델을 개발하고자 함.
+사망률이 높은 질환이 심장 질환은 조기 진단이 중요함. 디지털 의료기기의 심전도 데이터를 활용하여 보다 정확하고 빠른 심장 질환을 진단하는 모델을 개발하고자 함.
 
 ---
 ## 2. Data Set
@@ -24,6 +22,7 @@
 **Dataset Info.**
 
 Data Source: Physionet's PTB Diagnostic Database
+
 
 https://www.physionet.org/content/ptbdb/1.0.0/
 
@@ -47,6 +46,7 @@ https://www.physionet.org/content/ptbdb/1.0.0/
 - 딥러닝 모델 적용 후 비교
 
 <br/>
+
 
 **(2) Result**
 
