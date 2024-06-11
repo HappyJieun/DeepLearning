@@ -11,7 +11,7 @@
 > 
 > 언어: Python
 
-# ECG
+# Brain
 
 > 뇌 MRI 의료 영상 기반 진단 모델 개발
 > 
