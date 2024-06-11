@@ -11,6 +11,12 @@
 > 
 > 언어: Python
 
+# ECG
+
+> 뇌 MRI 의료 영상 기반 진단 모델 개발
+> 
+> 언어: Python
+
 # Study
 > Deep: 딥러닝 이론 스터디
 > 
